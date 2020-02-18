@@ -1,6 +1,6 @@
 {
   "name": "dotgig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line tool for creating an .gitignore file quickly",
   "main": "src/index.js",
   "bin": "src/index.js",
@@ -16,7 +16,7 @@
   "files": [
     "src/"
   ],
-  "author": "Limboer",
+  "author": "limboer",
   "license": "ISC",
   "repository": {
     "type": "git",

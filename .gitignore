@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/node,macos
-# Edit at https://www.gitignore.io/?templates=node,macos
+# Created by https://www.gitignore.io/api/macos,node
+# Edit at https://www.gitignore.io/?templates=macos,node
 
 ### macOS ###
 # General
@@ -136,4 +136,4 @@ dist/
 tmp/
 temp/
 
-# End of https://www.gitignore.io/api/node,macos
+# End of https://www.gitignore.io/api/macos,node
