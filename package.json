@@ -1,0 +1,36 @@
+{
+  "name": "dotgig",
+  "version": "1.0.0",
+  "description": "A command-line tool for creating an .gitignore file quickly",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "gitignore",
+    "cli",
+    "command",
+    "prompt"
+  ],
+  "files": [
+    "src/"
+  ],
+  "author": "Limboer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker0limbo/dotgig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hacker0limbo/dotgig/issues"
+  },
+  "homepage": "https://github.com/hacker0limbo/dotgig#readme",
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.3.1",
+    "inquirer-autocomplete-prompt": "hacker0limbo/inquirer-autocomplete-prompt",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
+  }
+}
