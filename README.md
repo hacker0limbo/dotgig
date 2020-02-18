@@ -16,6 +16,21 @@ $ npm install dotgig -g
 
 ## Usage
 
+```bash
+$ dotgig
+
+? Type Operating Systems, IDEs, or Programming Languages, separated with comma:
+(Use arrow keys or type to search, tab to autocomplete)
+❯ 1c
+  1c-bitrix
+  a-frame
+  actionscript
+  ada
+  adobe
+  advancedinstaller
+(Move up and down to reveal more choices)
+```
+
 Similiar to [gitignore.io](https://www.gitignore.io/), just type any Operating Systems, IDEs, or Programming Languages you want, make sure separated them with comma, for example: `macos,node`. If you do not provide any input, an empty `.gitignore` file will be generated after you pressing enter.
 
 The autocomplete will always be on for better user experience. Simply use arrow key to move up/down to check the type you are looking for, use `tab` to autocomplete once you choose the hint you selected
@@ -31,4 +46,4 @@ if (this.rl.line.includes(',')) {
 }
 ```
 
-This is only for my project's suitable autocomplete behaviour.
+This is only for my project's better autocomplete behaviour.
