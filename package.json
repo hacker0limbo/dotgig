@@ -1,6 +1,6 @@
 {
   "name": "dotgig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A command-line tool for creating an .gitignore file quickly",
   "main": "src/index.js",
   "bin": "src/index.js",
